@@ -1,0 +1,13 @@
+# Compiled Java files
+*.class
+
+# Local database files
+*.db
+*.sqlite
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# VS Code files
+.vscode/
